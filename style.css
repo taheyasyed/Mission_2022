@@ -1,7 +1,7 @@
-.first_sctn {
+.flex_container {
     display: flex;
     margin-bottom: 50px;
-    margin-top: 10%;
+    margin-top: 0%;
 }
 
 #header {
@@ -54,7 +54,9 @@
     text-align: center;
     font-weight: 800;
     margin: 0%;
-    padding: 1px
+    padding: 1px;
+    padding-bottom: 5%;
+
 }
 
 
@@ -62,8 +64,8 @@
     display: flex;
     margin-right: 60px;
     margin-left: 10%;
-
     margin-top: 50px;
+
 
 }
 
@@ -105,6 +107,7 @@
     margin-right: 30px;
     padding-right: 50px;
     padding-left: 30px;
+    padding-top: 5%;
 
 
 }
