@@ -128,3 +128,22 @@ h2 {
     height: 70%;
     padding-left: 20%;
 }
+
+.service {
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left right;
+    font-family: 'Domine', serif;
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 20%;
+
+
+}
+
+footer {
+    color: cornsilk;
+    background-color: brown;
+    font-family: 'Domine', serif;
+    text-align: center;
+}
