@@ -1,0 +1,47 @@
+.first_sctn {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+#header {
+    font-family: 'Domine', serif;
+    font-weight: 600;
+    font-size: 60px;
+    color: brown;
+    border-left: goldenrod solid 8px;
+}
+
+.half_width {
+    font-family: 'Poppins', sans-serif;
+    width: 50%;
+    padding: 10px;
+    margin-right: 0px;
+    margin-left: 100px;
+    margin-top: 50px;
+
+
+}
+
+.half_width img {
+    padding-left: 10px;
+    height: 50%;
+    margin-top: 10%;
+    border: 10px solid;
+    border-color: goldenrod green;
+    border-radius: 10px;
+
+}
+
+.color_text {
+    color: palegreen;
+}
+
+.link_button {
+    background-color: greenyellow;
+    color: maroon;
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 40px;
+}
