@@ -1,6 +1,7 @@
 .first_sctn {
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 50px;
+    margin-top: 10%;
 }
 
 #header {
@@ -12,12 +13,13 @@
 }
 
 .half_width {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'ABeeZee', sans-serif;
     width: 50%;
     padding: 10px;
     margin-right: 0px;
     margin-left: 100px;
-    margin-top: 50px;
+    margin-top: 20px;
+    margin-bottom: 0%;
 
 
 }
@@ -44,4 +46,55 @@
     text-decoration: none;
     border-radius: 5px;
     padding: 10px 40px;
+}
+
+.sctn_heading {
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 800;
+    margin: 0%;
+    padding: 1px
+}
+
+
+.scnd_sctn {
+    display: flex;
+    margin-right: 60px;
+    margin-left: 10%;
+
+    margin-top: 50px;
+
+}
+
+.three_column {
+    font-family: 'Domine', serif;
+    margin-bottom: 30%;
+    width: 25%;
+    margin: 10px;
+    border-radius: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+
+
+}
+
+.three_column img {
+    height: 40%;
+    width: 40%;
+}
+
+#mission {
+    background-color: blanchedalmond;
+    margin-left: 30px;
+
+}
+
+#vission {
+    background-color: palegreen;
+}
+
+#goals {
+    background-color: powderblue;
 }
